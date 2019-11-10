@@ -1,7 +1,18 @@
+---
+layout:     post
+title:      Power Password Manager
+subtitle:   Privacy policy
+date:       2019-11-11
+author:     7color
+header-img: img/post-bg-desk.jpg
+catalog: true
+tags:
+    - Password
+---
+
 ## **Power Password Manager**
 
 ###Privacy policy
-
 
 This privacy policy governs your use of the software application Power Password Manager (“Application”) for mobile devices.
 What information does the Application  obtain and how is it used?
